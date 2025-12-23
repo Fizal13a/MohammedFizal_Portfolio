@@ -125,7 +125,7 @@ export const PROJECTS: Project[] = [
       { type: 'image', url: 'https://res.cloudinary.com/damqgasyv/image/upload/v1765769727/Screenshot_2025-12-15_083123_w8b2vl.png', alt: 'Gameplay Screenshot 3' },
     ],
     links: [
-      { label: 'Github', url: 'https://github.com/Fizal13a/Legendary-Warrior-', type: 'github' }
+      { label: 'Github', url: 'https://github.com/Fizal13a/Legendary-Warrior-', type: 'github' },
 	{ label: 'Play', url: 'https://fizaldevvv.itch.io/legendary-warrior', type: 'play' },
     ]
   },
