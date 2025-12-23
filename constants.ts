@@ -112,6 +112,23 @@ export const PROJECTS: Project[] = [
       { label: 'Github', url: 'https://github.com/Fizal13a/Hold', type: 'github' }
     ]
   },
+{
+    id: '6',
+    title: 'Evil Slayer',
+    description: 'Evil Slayer is a turn-based battle game featuring strategic combat, character abilities, and tactical decision-making, where players plan each move carefully to defeat opponents and progress through challenging encounters.',
+    techStack: ['Unity', 'C#'],
+    category: 'Personal',
+    media: [
+      { type: 'video', url: 'https://res.cloudinary.com/damqgasyv/video/upload/v1765769947/Screen_Recording_2025-12-15_083307_s7jinz.mp4', alt: 'Gameplay Video 1' },
+      { type: 'image', url: 'https://res.cloudinary.com/damqgasyv/image/upload/v1765769726/Screenshot_2025-12-15_083102_q593tb.png', alt: 'Gameplay Screenshot 1' },
+      { type: 'image', url: 'https://res.cloudinary.com/damqgasyv/image/upload/v1765769727/Screenshot_2025-12-15_083113_fv94dr.png', alt: 'Gameplay Screenshot 2' },
+      { type: 'image', url: 'https://res.cloudinary.com/damqgasyv/image/upload/v1765769727/Screenshot_2025-12-15_083123_w8b2vl.png', alt: 'Gameplay Screenshot 3' },
+    ],
+    links: [
+      { label: 'Github', url: 'https://github.com/Fizal13a/Legendary-Warrior-', type: 'github' }
+	{ label: 'Play', url: 'https://fizaldevvv.itch.io/legendary-warrior', type: 'play' },
+    ]
+  },
   {
     id: '7',
     title: 'Procedural Maze Generation Pro',
