@@ -16,6 +16,22 @@ export const SOCIAL_LINKS = [
 
 export const PROJECTS: Project[] = [
   {
+    id: '0',
+    title: 'ChainMyth',
+    description: 'ChainMyth is a 5v5 competitive FPS hero shooter built around precise gunplay, tactical abilities, and team-based strategy. Featuring distinct heroes and NFT-powered assets, the game blends skill-driven combat with true digital ownership in a polished, esports-ready experience.',
+    techStack: ['Unity', 'C#', 'Mirror'],
+    category: 'Professional',
+    media: [
+      { type: 'video', url: 'https://res.cloudinary.com/damqgasyv/video/upload/v1766460414/chain_myth_yahwnu.mov', alt: 'Gameplay Video 1' },
+      { type: 'image', url: 'https://res.cloudinary.com/damqgasyv/image/upload/v1766460324/Fmq-QECaYAEYPr1_aiyuuq.jpg', alt: 'Gameplay Screenshot 1' },
+      { type: 'image', url: 'https://res.cloudinary.com/damqgasyv/image/upload/v1766460325/wrrw22_kb68yk.png', alt: 'Gameplay Screenshot 2' },
+      { type: 'image', url: 'https://res.cloudinary.com/damqgasyv/image/upload/v1766460324/FqOKo6bWwAYNxiQ_i51pin.jpg', alt: 'Gameplay Screenshot 3' },
+    ],
+    links: [
+     
+    ]
+  },
+  {
     id: '1',
     title: 'Racing Motocross Multiplayer',
     description: 'Racing Motocross Multiplayer is a 3D online multiplayer motocross bike racing game featuring real-time competitive races, physics-based bike handling, responsive controls, and high-speed tracks designed for skill-based racing against other players.',
