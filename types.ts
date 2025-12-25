@@ -19,3 +19,10 @@ export interface Project {
   links: ProjectLink[];
   category: 'Professional' | 'Personal' | 'Tools';
 }
+
+export interface ProjectDetail {
+  id: string;
+  tags: string[];
+  role: string;
+  contributions: string[];
+}
